@@ -1,0 +1,6 @@
+@JENSENOnline.API_HostAddress = http://localhost:5279
+
+GET {{JENSENOnline.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
